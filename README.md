@@ -135,12 +135,6 @@ Me especializo en construir **motores de IA conversacional multi-tenant** para e
 
 </div>
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madfer93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
 ---
 
 ## 🌎 Cobertura Geográfica
