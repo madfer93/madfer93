@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=200&section=header&text=Manuel%20Fernando%20Madrid&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CEO%20%7C%20Consultor%20IA%20%7C%20Fundador%20J%26M%20Tech%20Solutions&descSize=18&descAlignY=60&descColor=93c5fd" alt="banner" width="100%"/>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=200&section=header&text=Manuel%20Fernando%20Madrid&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CEO%20%7C%20Consultor%20IA%20%7C%20JyM%20Tech%20Solutions&descSize=18&descAlignY=60&descColor=93c5fd)
+
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelmadriddev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573045788873)
@@ -46,14 +50,13 @@ Me especializo en construir **motores de IA conversacional multi-tenant** para e
 
 ### IA & Automatización
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LPU-F54F2D?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Meta API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 ### Infraestructura & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger_KVM-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_WAF-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
@@ -103,7 +106,7 @@ Me especializo en construir **motores de IA conversacional multi-tenant** para e
 ---
 
 ### 🏫 Fundetec — Ecosistema Digital Institucional
-> Modernización completa del portal de Fundetec: SEO, CRM, IA conversacional y pagos.
+> Modernización completa del portal institucional: SEO, CRM, IA conversacional y pagos.
 
 - **253 leads CRM**, 43.586 páginas vistas, 82.4% tráfico móvil (Google Search Console).
 - Chatbot **"ErIA / Techi"** con autodetección de sede por URL y sincronización multi-dominio.
@@ -119,7 +122,7 @@ Me especializo en construir **motores de IA conversacional multi-tenant** para e
 | Cursor con Python: Desarrollo Inteligente con IA | Santander Open Academy | 2026 |
 | Fundamentos de ChatGPT | Santander Open Academy | 2026 |
 | Programación en Python | Santander Open Academy | 2026 |
-| Marca Personal 360º | Santander Open Academy | 2026 |
+| Marca Personal 360° | Santander Open Academy | 2026 |
 | Frontend Web Developer (30.5h) | Udemy | 2025 |
 
 ---
@@ -127,12 +130,15 @@ Me especializo en construir **motores de IA conversacional multi-tenant** para e
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=madfer93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfer93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madfer93&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madfer93&theme=tokyonight&hide_border=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madfer93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 ---
@@ -147,7 +153,7 @@ Proyectos activos en producción en:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a5f&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a5f&height=100&section=footer)
 
 *"Automatización con IA, soberanía digital y cumplimiento fiscal — todo bajo un mismo techo."*
 
