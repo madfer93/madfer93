@@ -1,16 +1,23 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Manuel Fernando
 
-<!--
-**madfer93/madfer93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fundador y Director de JyM Tech Solutions** | Desarrollador de Software y Consultor Tecnológico en Villavicencio, Colombia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico y Habilidades
+* **Desarrollo Web & Apps:** React, Next.js, HTML5, CSS3, JavaScript, Python.
+* **Automatización & IA:** Make, Botpress, Ollama, Groq, Google Apps Script.
+* **Infraestructura & Datos:** Supabase, integraciones con API de WhatsApp, pasarelas de pago (Wompi, Nequi) y facturación electrónica DIAN.
+
+---
+
+### 🚀 Proyectos Destacados
+* **[Perfil Comercial](https://github.com/madfer93/Perfil-comercial-Manuel):** Sitio web profesional para consultoría en automatización e IA.
+* **SaaS y Automatizaciones:** Desarrollo de plataformas autoadministrables, sistemas escolares (SaaS) y paneles de control empresariales.
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madfer93&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
